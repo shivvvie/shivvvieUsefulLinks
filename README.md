@@ -29,7 +29,21 @@ Information I've found useful over my career in robotics/automation
 * [Convert OpenCV mat to pointcloud](https://gist.github.com/jacyzon/fa868d0bcb13abe5ade0df084618cf9c)
 * [Install OpenCV on Linux](https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html)
 * [Kalman Filter](https://www.kalmanfilter.net/background.html)
+* [Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
+* [Kalman Filter for Dummies](http://bilgin.esme.org/BitsAndBytes/KalmanFilterforDummies)
+* [Kalman Filter Implementation Guide](https://www.robotsforroboticists.com/kalman-filtering/)
+* [Kalman Filter in C++](https://stackoverflow.com/questions/68630499/implementing-kalman-filter-in-c)
+* [Kalman C++ Code](https://github.com/auralius/kalman-cpp)
+* [Kalman C++ Header](https://github.com/tysik/kalman_filters)
 * [Edge-Conditioned Convolution on Graphs](https://github.com/mys007/ecc)
+* [KD Tree](https://yasenh.github.io/post/kd-tree/)
+* [RANSAC Global Recognition](http://www.open3d.org/docs/release/tutorial/pipelines/global_registration.html)
+* [Cloud Processing (RANSAC, segmentation)](https://robotica.unileon.es/index.php?title=PCL/OpenNI_tutorial_3:_Cloud_processing_(advanced))
+* [How to automate 3D point cloud segmentation and clustering with Python](https://towardsdatascience.com/how-to-automate-3d-point-cloud-segmentation-and-clustering-with-python-343c9039e4f5)
+* [Extended Kalman Filter](https://github.com/silverwhere/Extended-Kalman-Filter)
+* [LIDAR Snow Removal](https://github.com/nickcharron/lidar_snow_removal)
+* [Point Cloud De-noising](https://github.com/rheinzler/PointCloudDeNoising)
+* [PCD De-noising](https://github.com/EricWiener/point-cloud-de-noising)
 
 ## Networking  
 * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/) - guide to sockets API
