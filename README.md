@@ -48,6 +48,7 @@ Information I've found useful over my career in robotics/automation
 ## Networking  
 * [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/) - guide to sockets API
 * UNIX Network Programming by W. Richard Stevens
+* [Libmodbus](https://github.com/epsilonrt/libmodbuspp)
 
 ## AI  
 * [Awful AI](https://github.com/daviddao/awful-ai) - current scary uses of AI
