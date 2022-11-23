@@ -29,6 +29,7 @@ Information I've found useful over my career in robotics/automation
 * [Convert OpenCV mat to pointcloud](https://gist.github.com/jacyzon/fa868d0bcb13abe5ade0df084618cf9c)
 * [Install OpenCV on Linux](https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html)
 * [Kalman Filter](https://www.kalmanfilter.net/background.html)
+* [Wiki with Kalman Filter links](http://www.cs.unc.edu/~welch/kalman/)
 * [Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
 * [Kalman Filter for Dummies](http://bilgin.esme.org/BitsAndBytes/KalmanFilterforDummies)
 * [Kalman Filter Implementation Guide](https://www.robotsforroboticists.com/kalman-filtering/)
